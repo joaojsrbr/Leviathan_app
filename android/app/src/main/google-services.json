@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "658022971398",
+    "project_id": "void-reader-a44ef",
+    "storage_bucket": "void-reader-a44ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658022971398:android:8cdf36175cda48caedab87",
+        "android_client_info": {
+          "package_name": "com.void_reader.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658022971398-9cgd8u8a2pq8iu4lvn5seqmqvuf96hrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMJs5E2nHHSi3V45vjZnmO4QMm6n6guQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658022971398-9cgd8u8a2pq8iu4lvn5seqmqvuf96hrg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658022971398-vcr3vqsoin6psjqbtp1hn3m3i8tp0q0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voidReader"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658022971398:android:f27548f525bc6992edab87",
+        "android_client_info": {
+          "package_name": "com.void_reader.jsr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658022971398-o61v9l4t8se3atddjnt4c1s9qfv70n5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.void_reader.jsr",
+            "certificate_hash": "6624ae88fd77157c532592abdbc44a936197ec30"
+          }
+        },
+        {
+          "client_id": "658022971398-9cgd8u8a2pq8iu4lvn5seqmqvuf96hrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMJs5E2nHHSi3V45vjZnmO4QMm6n6guQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658022971398-9cgd8u8a2pq8iu4lvn5seqmqvuf96hrg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658022971398-vcr3vqsoin6psjqbtp1hn3m3i8tp0q0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voidReader"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

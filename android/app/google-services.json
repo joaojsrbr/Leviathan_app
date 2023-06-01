@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "490190755048",
+    "project_id": "leviathan-app",
+    "storage_bucket": "leviathan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490190755048:android:2441a57abc9fefef56a55d",
+        "android_client_info": {
+          "package_name": "com.leviathan_app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490190755048-ihpemcg73vesh6551ueujfivuf7mr5aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnUlRTOhesjgr-GItKDiD_U8aFRYZqlNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490190755048-ihpemcg73vesh6551ueujfivuf7mr5aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490190755048-fe5dm74rjskf6jed4tb304i0n5uomh78.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leviathanapp.leviathanApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490190755048:android:061b56e3b5624b4f56a55d",
+        "android_client_info": {
+          "package_name": "com.leviathan_app.jsr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490190755048-1v1c1g54ncni5cfji88vhic9l7l7j8ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leviathan_app.jsr",
+            "certificate_hash": "6624ae88fd77157c532592abdbc44a936197ec30"
+          }
+        },
+        {
+          "client_id": "490190755048-ihpemcg73vesh6551ueujfivuf7mr5aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnUlRTOhesjgr-GItKDiD_U8aFRYZqlNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490190755048-ihpemcg73vesh6551ueujfivuf7mr5aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490190755048-fe5dm74rjskf6jed4tb304i0n5uomh78.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leviathanapp.leviathanApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
