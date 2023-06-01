@@ -424,9 +424,11 @@ packages:
   hidable:
     dependency: "direct main"
     description:
-      path: "../hidable"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: d24682d8ac25ebc85c4dff70a5ad0041c4c8bbac
+      url: "https://github.com/joaojsrbr/hidable"
+    source: git
     version: "1.0.6"
   hive:
     dependency: "direct main"
